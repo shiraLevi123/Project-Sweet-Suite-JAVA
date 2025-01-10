@@ -7,7 +7,7 @@
 - **Java** 
 - **Spring Boot** 
 - **H2** 
-- **MapStruct:** 
+- **MapStruct** 
 - **JWT**
 - **REACT-REDUX**
 
